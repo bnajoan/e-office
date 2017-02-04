@@ -1,0 +1,20 @@
+body {
+    background-image: url("../images/feng-shui-1960783_1920.jpg");
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+.login-panel,.panel-heading, .panel-body, .panel-footer {
+    background-color: rgba(255,255,255,.4) !important;
+}
+
+.login input {
+    background-color: rgba(255,255,255,.4) !important;
+}
+
+.panel-heading {
+    height:inherit;
+}
+.panel-heading b {
+    color: #3498db;
+}
